@@ -21,7 +21,7 @@ Obs: Sua feature sempre terá o prefixo feature/
 - Após finalizar, siga o fluxo:
   - git add .
   - git commit -m "Mensagem sobre as alteracoes que vc fez, preferencialmente sem acentos"
-  - git push feature/NomeDaSuaFeature
+  - git push origin feature/NomeDaSuaFeature
 - Após ter a feature finalizada, sinalize para mergear na master e assim gerar uma release, a versão final do APK.
 
 ### Plugins
