@@ -1,3 +1,9 @@
+![principal](https://user-images.githubusercontent.com/63431463/79059266-3e231000-7c4e-11ea-9fd4-7dd4b55203ba.jpg)
+![tela](https://user-images.githubusercontent.com/63431463/79059274-49763b80-7c4e-11ea-95d6-704ea4da9d9d.jpg)
+![tela-2](https://user-images.githubusercontent.com/63431463/79059276-4bd89580-7c4e-11ea-87cc-ade63920b945.png)
+![tela-3](https://user-images.githubusercontent.com/63431463/79059277-4da25900-7c4e-11ea-9012-95bd4f418268.png)
+![tela-4](https://user-images.githubusercontent.com/63431463/79059278-4ed38600-7c4e-11ea-867d-04f9792f01d6.png)
+
 # Organizze Clone
 
 Desenvolvido por Lucas Genovez e Gabriel Vieira
