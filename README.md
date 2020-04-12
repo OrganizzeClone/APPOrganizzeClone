@@ -1,4 +1,4 @@
-![principal](https://user-images.githubusercontent.com/63431463/79059266-3e231000-7c4e-11ea-9fd4-7dd4b55203ba.jpg|width=250)
+![principal](https://user-images.githubusercontent.com/63431463/79059266-3e231000-7c4e-11ea-9fd4-7dd4b55203ba.jpg)
 
 # Organizze Clone
 
